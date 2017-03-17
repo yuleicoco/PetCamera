@@ -1,0 +1,95 @@
+/* 
+  Localizable.strings
+  petegg
+
+  Created by ldp on 16/3/14.
+  Copyright © 2016年 ldp. All rights reserved.
+*/
+
+//tab
+"tabEgg" = "Egg";
+"tabPersonal" = "Personal Center";
+
+//egg
+"openButton" = "Open";
+"tabEgg_title" ="petcamera";
+"tabMore_title"="More";
+"tab_wifi"="Set WIFI";
+"tab_food"="Feeding";
+"solveaBinding" ="Unbinding";
+
+// set
+"setTitle" = "Setting";
+
+// wifi
+"wifiTitle" = "Set networ";
+"bindDevice" = "Binding device";
+"Wifi_done"="Done";
+
+
+// wifi
+
+"Cancel_bind_n" = "Cancel";
+"Sure_bind_n_" ="Done";
+"wifiTitle" = "Set WIFI";
+"INFO_NetNoReachable" = "当前网络不可用";
+"INFO_ReachableViaWWAN"= "当前非WIFI环境";
+"bindDevice" = "Binding";
+"solveaBinding" ="Unbind";
+"deviceNum" ="Q NO/";
+"deviceIncode"="AccessCode/";
+"Warring_bing" ="The device number does not exist";
+"Success_bing" ="Bind Success";
+"Warning" ="Tips";
+"Cancel_bind" = "Cancel";
+"Sure_bind" ="Bingding";
+"Warning_Message" ="Are you sure to unbind??";
+"Solve_Success"="Unbundling success";
+"Find_device" ="Searching for devices...";
+"find_noway" ="The device is not found";
+"I_kown" ="I know";
+"no_turnon" ="You have not turned on Bluetooth";
+"Fail_seting" ="Configuration failed. Search the device again";
+"wif_encryption" ="Encryption type";
+"wif_name" ="Name/";
+"wif_code" ="Password/";
+"faile_net" ="The configuration fails. Please reset the network";
+"falie_bl"= "Configuration failed, please make sure device Bluetooth is turned on";
+"ing_net" ="Configuring...";
+
+// setting
+"settingViewTitle" = "Setting";
+"wifiViewTitle" = "Set Network";
+"INFO_NetNoReachable" = "The current network is not available";
+"INFO_ReachableViaWWAN"= "Current non WIFI environment";
+"bindDeviceViewTitle" = "Binding Device";
+
+"photograph" = "Photograph";
+"photoalbum" = "Photoalbum";
+"videoTitle" = "Video";
+"hadupdata" = "Already uploaded";
+"willupdata" = "Not uploaded";
+
+"EquipmentNo" = "  Device No:";
+"AccessCode" = "  Access Code:";
+
+// 登录 注册
+"regist" = "Register";
+"completion" = "Complete information";
+"repaceWD" = "Modify password";
+
+"of" = "/";
+
+"Sure_bind_feed"= "Done";
+"feed_model"="Feeding";
+"feed_way"="Mode";
+"feed_four"="Four";
+"feed_two"="Two";
+"feed_stop"="Stop";
+"feed_start"="Enable";
+"feed_stoping"="Inactive...";
+"feed_surefeed"="Are you sure you want to disable auto-feeding??";
+"feed_over"="complete";
+"feed_setting"="Setting up...";
+"feed_tips"="Please do not select the same time!";
+
